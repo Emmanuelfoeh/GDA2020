@@ -220,6 +220,7 @@ kubectl logs new-nginx -f --timestamps
 
 ```
 
+
 ## Translation code for Getting started with GKE
 ~~~~~
 For convenience, place the zone that Qwiklabs assigned you to into an environment variable called MY_ZONE.
